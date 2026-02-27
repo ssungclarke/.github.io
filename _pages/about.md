@@ -1,39 +1,26 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+ <!-- <img src="../images/98743518-20F6-4A7E-949A-A1B93C49EC36.heic" alt="Salt Pond, Eastham, MA, a salt marsh with a boat in it" width="600"> -->
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+![Salt Pond, Eastham, MA, a salt marsh with a boat in it](../images/98743518-20F6-4A7E-949A-A1B93C49EC36.heic)
 
-======
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-
-How to edit your site's GitHub repository
-------
+ <img src="../images/2A07EE23-08A9-4FE5-9468-FFFDE740F2CE.heic" align="left" style ="float: left; margin-right: 20px;" alt="Me looking for a mysterious wintertime bloom" width="250"> 
+ I'm a phytoplankton ecologist and biological oceanographer broadly interested in the connections between aquatic ecosystem function, human health, and environmental change. I'm currently a Ph.D. candidate in the [MIT-WHOI Joint Program](https://mit.whoi.edu) with the [Brosnahan Lab](https://www2.whoi.edu/site/brosnahanlab/), studying the physiology and ecology of dinoflagellates responsible for harmful algal blooms. More about my research [here](research.md). 
 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+When not wrangling dinoflagellates in salt marshes, doing experiments in the lab, or queuing up computing jobs on our HPC, I enjoy running and cycling (when the weather is good) as well as doing pottery, knitting, or sewing (when the weather is bad). 
+
+
+
+
+
 
 Website Credit
 ------

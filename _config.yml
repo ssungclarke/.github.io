@@ -23,12 +23,12 @@ repository               : #"academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/headshot.jpg"
+  avatar           : "profile.png"
   name             : "Serena Sung-Clarke"
   pronouns         : # example: "she/her"  
   bio              : "Phytoplankton biologist and aquatic ecologist, Ph.D. candidate in biological oceanography in the MIT-WHOI Joint Program"
   location         : "Woods Hole, MA"
-  employer         : "Massachusetts Institute of Technology - Woods Hole Oceanographic Institution"
+  employer         : "MIT-WHOI Joint Program"
   uri              : https://ssungclarke.github.io/
   email            : "serena.sungclarke@whoi.edu" 
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
